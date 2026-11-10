@@ -1,0 +1,29 @@
+{
+  "name": "Prostaff",
+  "short_name": "Prostaff",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#010101",
+  "theme_color": "#010101",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
